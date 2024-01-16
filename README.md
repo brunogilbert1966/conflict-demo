@@ -1,4 +1,4 @@
 # conflict-demo
-LOCAL
+REMOTE
 
 j'écris quelques lignes de  texte.

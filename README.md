@@ -1,2 +1,2 @@
 # conflict-demo
-j'écris quelques lignes de  texte
+j'écris quelques lignes de  texte.
